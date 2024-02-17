@@ -138,28 +138,24 @@ navbar-var-length: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: '#B5A68C'
-# '#2A2823' # darklight cream coffee
-# "#EAEAEA"
+navbar-col: '#55594A' # muted graygreen dark side
 navbar-text-col: '#1F1D19'
-# '#B5A68C' # light cream coffee
-# "#404040"
 navbar-border-col: '#DDDDDD'
-page-col: '#2A2823'
-# '#1F1D19' # dark coffee dark gray black
-# "#FFFFFF"
-text-col: '#1F1D19'
-# '#B5A68C' # light cream coffee
-# "#404040"
+page-col: '#463045' # muted dark purple
+text-col: '#AF935D' # muted light brown
 link-col: '#008AFF'
 hover-col: '#0085A1'
-footer-col: '#B5A68C' # darklight cream coffee
-# '#2A2823' # darklight cream coffee
-# "#EAEAEA"
+footer-col: '#55594A' # muted graygreen dark side
 footer-text-col: '#777777'
 footer-link-col: '#B5A68C'
-# "#404040"
 footer-hover-col: '#0085A1'
+# "#404040"
+# '#55594A' # muted graygreen dark side
+# '#2A2823' # darklight cream coffee
+# "#EAEAEA"
+# '#B5A68C' # light cream coffee
+# '#1F1D19' # dark coffee dark gray black
+# "#FFFFFF"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
