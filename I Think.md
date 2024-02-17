@@ -4,6 +4,8 @@ title: I Think
 subtitle:
 ---
 
+<html><head><meta content="text/html; charset=UTF-8" http-equiv="content-type">
+
     	<style type="text/css">
     		ol {
     			margin: 0;
@@ -231,4 +233,4 @@ subtitle:
     	</p>
     	<p class="c2">
     		<span class="c5">I</span><span>&nbsp;</span><span class="c9">think</span>
-    	</p>
+    	</p></body></html>
