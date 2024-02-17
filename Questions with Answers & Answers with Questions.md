@@ -15,7 +15,7 @@ Is it over or does is start again.
 <br><br>
 Is the price worth all this?
 <br><br>
-Why is it that people tend to dwell on small things some much and forget what is around them, then realize when it’s gone?
+Why is it that people tend to dwell on small things so much and forget what is around them, then realize when it’s gone?
 <br><br>
 I see myself staring with in, looking deep and deeper I go, the darker it gets. I see nothing is their, cause I feel nothing, and can I not know what feeling really is, so therefore I don’t feel anything.
 <br><br>
