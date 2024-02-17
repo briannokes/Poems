@@ -12,8 +12,7 @@ subtitle:
 			margin-top: 0pt;
 			margin-bottom: 0pt;
 			text-align: center;
-		"
-	>
+		">
 		<span
 			style="
 				font-size: 30pt;
@@ -27,8 +26,7 @@ subtitle:
 				vertical-align: baseline;
 				white-space: pre;
 				white-space: pre-wrap;
-			"
-			><br />
+			"><br />
 		</span>
 	</p>
 </span>
@@ -523,8 +521,7 @@ subtitle:
 					vertical-align: baseline;
 					white-space: pre;
 					white-space: pre-wrap;
-				"
-				>their senses has limitless knowledge.
+				">their senses has limitless knowledge.
 			</span>
 		</p>
 	</span>
@@ -539,8 +536,7 @@ subtitle:
 				background-color: transparent;
 				vertical-align: baseline;
 				white-space: pre-wrap;
-			"
-		>
+			">
 		</span>
 	</p>
 	<div>
@@ -552,9 +548,8 @@ subtitle:
 				background-color: transparent;
 				vertical-align: baseline;
 				white-space: pre-wrap;
-			"
-			>&nbsp;</span
-		>
+			">
+		</span>
 	</div>
 	<br />
 	<br />
