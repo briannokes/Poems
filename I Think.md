@@ -19,7 +19,7 @@ subtitle:
     			color: #000000;
     			font-weight: 400;
     			text-decoration: none;
-    			vertical-align: baseline;
+    			vertical-align: center;
     			font-size: 14pt;
     			font-family: 'Arial';
     			font-style: normal;
@@ -37,7 +37,7 @@ subtitle:
     			color: #000000;
     			font-weight: 400;
     			text-decoration: none;
-    			vertical-align: baseline;
+    			vertical-align: center;
     			font-size: 11pt;
     			font-family: 'Arial';
     			font-style: normal;
@@ -46,7 +46,7 @@ subtitle:
     			color: #000000;
     			font-weight: 700;
     			text-decoration: none;
-    			vertical-align: baseline;
+    			vertical-align: center;
     			font-size: 14pt;
     			font-family: 'Arial';
     			font-style: normal;
@@ -65,17 +65,17 @@ subtitle:
     			line-height: 1.15;
     			orphans: 2;
     			widows: 2;
-    			text-align: left;
+    			text-align: Center;
     		}
     		.c11 {
-    			color: #000000;
+    			<!--color: #000000;-->
     			text-decoration: none;
-    			vertical-align: baseline;
+    			vertical-align: center;
     			font-family: 'Arial';
     			font-style: normal;
     		}
     		.c6 {
-    			background-color: #ffffff;
+    			<!-- background-color: #ffffff; -->
     			max-width: 720pt;
     			padding: 36pt 36pt 36pt 36pt;
     		}
@@ -102,7 +102,7 @@ subtitle:
     			page-break-after: avoid;
     			orphans: 2;
     			widows: 2;
-    			text-align: left;
+    			text-align: center;
     		}
     		.subtitle {
     			padding-top: 0pt;
