@@ -1,18 +1,25 @@
+---
+layout: page
+title: I hope you find
+subtitle:
+---
 
+<br><br>
 
-  
-
-### I hope you find
-
-### what you are looking for
-
-### in this vast Universe.
-
-### It's hard with all of this up and down
-
-### in the world,
-
-### push through it all,
-
-### it will come in the end.
-
+<h3 style="text-align: left;">
+I hope you find
+<br><br>
+what you are looking for
+<br><br>
+in this vast Universe.
+<br><br>
+It's hard with all of this up and down
+<br><br>
+in the world,
+<br><br>
+push through it all,
+<br><br>
+it will come in the end.
+<br><br>
+</h3>
+<br><br>
