@@ -4,9 +4,11 @@ title: I Think
 subtitle:
 ---
 
+<!--
 <html><head><meta content="text/html; charset=UTF-8" http-equiv="content-type">
+-->
 
-    	<style type="text/css">
+    	<blockquote style type="text/css">
     		ol {
     			margin: 0;
     			padding: 0;
@@ -200,7 +202,7 @@ subtitle:
     			widows: 2;
     			text-align: left;
     		}
-    	</style>
+    	</blockquote>
     </head>
     <body class="c6">
     	<p class="c2">
@@ -233,4 +235,6 @@ subtitle:
     	</p>
     	<p class="c2">
     		<span class="c5">I</span><span>&nbsp;</span><span class="c9">think</span>
-    	</p></body></html>
+    	</p>
+    				</blockquote>
+    				<!-- </body></html> -->
