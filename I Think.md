@@ -45,7 +45,7 @@ subtitle:
 		</p>
 	</span>
 		<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt">
-			<span style="font-size:60pt;font-family:Arial;color:#1F1D19;background-color:transparent;font-weight:800;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Therefore</span>
+			<span style="font-size:40pt;font-family:Arial;color:#1F1D19;background-color:transparent;font-weight:800;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Therefore</span>
 		</p>
 	<span>
 		<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:center">
