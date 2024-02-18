@@ -4,29 +4,30 @@ title: I Think
 subtitle:
 ---
 
-<p style="padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:center;">
-	<span style="font-family:Arial;font-size:96pt;font-weight:700;">I</span>
-	<span style="font-family:Arial;font-size:30pt;">think</span>
-</p>
-<p style="margin-left:72pt;padding-top:0pt;padding-bottom:0pt;padding-left:510pt;line-height:1.15;orphans:2;widows:2;text-align:left;">
-	<span style="font-family:Arial;font-size:18pt;font-style:normal;font-weight:400;vertical-align:center;">Black holes suck in everything,</span></p>
-<p style="margin-left:72pt;padding-top:0pt;padding-bottom:0pt;padding-left:610pt;line-height:1.15;orphans:2;widows:2;text-align:left;">
-	<span style="font-family:Arial;font-size:18pt;font-style:normal;font-weight:400;vertical-align:center;">and the other side that you can&#39;t see,</span></p>
-<p style="margin-left:72pt;padding-top:0pt;padding-bottom:0pt;padding-left:710pt;line-height:1.15;orphans:2;widows:2;text-align:left;">
-	<span style="font-family:Arial;font-size:18pt;font-style:normal;font-weight:400;vertical-align:center;">is the beginning of a new universe.</span>
-</p>
-<p style="padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:center;">
-	<span style="font-family:Arial;font-size:96pt;font-weight:700;">I</span>
-	<span style="font-family:Arial;font-size:30pt;">think</span>
-</p>
-<p style="margin-left:72pt;padding-top:0pt;padding-bottom:0pt;padding-left:510pt;line-height:1.15;orphans:2;widows:2;text-align:left;">
-	<span style="font-family:Arial;font-size:18pt;font-style:normal;font-weight:400;vertical-align:center;">that it expands and keeps doing this infinitely.</span>
-</p>
-<p style="margin-left:72pt;padding-top:0pt;padding-bottom:0pt;padding-left:620pt;line-height:1.15;orphans:2;widows:2;text-align:left;">
-	<span style="font-family:Arial;font-size:24pt;">Therefore</span>
-</p>
-
-<p style="padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:center;">
-	<span style="font-family:Arial;font-size:96pt;font-weight:700;">I</span>
-	<span style="font-family:Arial;font-size:30pt;">think</span>
-</p>
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px">
+	<span>
+		<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;text-align:center">
+			<span style="font-size:96pt;font-family:Arial;color:#FFFFFF;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">I</span>
+			<span style="font-size:30pt;font-family:Arial;color:#1F1D19;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">think</span>
+		</p>
+	</span>
+	<span>
+		<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt">
+			<span style="font-size:34pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">Black</span> 
+			<span style="font-size:18pt;font-family:Arial;color:#FFFFFF;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">holes suck in</span>
+			<span style="font-size:14pt;font-family:Arial;color:#FFFFFF;background-color:transparent;font-weight:100;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">everything,</span>
+		</p>
+	</span>
+	<span>
+		<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt">
+			<span style="font-size:18pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:18pt;font-family:Arial;color:#666686;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">and the other side that you can&#39;t see,</span>
+		</p>
+	</span>
+	<span>
+		<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt">
+			<span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+			<span style="font-size:17.5pt;font-family:Arial;color:#FFFFFF;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">is the beginning of a new</span>
+			<span style="font-size:24pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap">universe</span>
+		</p>
+	</span>
+</blockquote>
