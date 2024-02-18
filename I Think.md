@@ -4,7 +4,6 @@ title: I Think
 subtitle:
 ---
 
-<blockquote>
 <p style="padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:center;">
 	<span style="font-family:Arial;font-size:96pt;font-weight:700;">I</span>
 	<span style="font-family:Arial;font-size:30pt;">think</span>
@@ -31,4 +30,3 @@ subtitle:
 	<span style="font-family:Arial;font-size:96pt;font-weight:700;">I</span>
 	<span style="font-family:Arial;font-size:30pt;">think</span>
 </p>
-</blockquote>
