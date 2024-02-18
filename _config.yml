@@ -139,7 +139,7 @@ navbar-var-length: true
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: '#55594A' # muted light graygreen
-navbar-text-col: '#777777'
+navbar-text-col: '#1F1D19'
 navbar-border-col: '#DDDDDD'
 page-col: '#8A8C77' # muted graygreen dark side
 text-col: '#1F1D19' # muted light brown
